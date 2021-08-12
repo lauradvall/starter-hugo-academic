@@ -1,21 +1,18 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: I am an engineer working at the intersection of technology and
+  neuroscience, with a deep passion for understanding the intricacies of the
+  human brain and how this can improve our welfare as a society.  I graduated in
+  Telecommunications Engineering at Polytechnic University of Catalonia (UPC).
+  After completing my master thesis at MIT, I held several research-related
+  roles both in academia and industry (Starlab). During these years I pursued a
+  PhD in Neuroscience at University of Barcelona in collaboration with Harvard
+  Medical School, while combining it with my job as the Technical Manager at
+  Neuroelectrics, a startup company designing medical devices for brain
+  monitoring (EEG) and non-invasive brain stimulation (tDCS/tACS/tRNS).
+widget_id: biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
