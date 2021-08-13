@@ -1,8 +1,9 @@
 ---
 title: Galvani
-subtitle: Controlling epileptic brain networks with computationally optimized
-  weak electric fields
+subtitle: ""
 date: 2021-08-13T17:13:44.599Z
+summary: Controlling epileptic brain networks with computationally optimized
+  weak electric fields
 draft: false
 featured: false
 categories:
