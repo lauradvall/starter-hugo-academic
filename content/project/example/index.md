@@ -4,13 +4,13 @@ url_pdf: ""
 title: Galvani
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: https://www.galvani-lab.eu
 url_slides: ""
 subtitle: Controlling epiletic brain networks with computationally optimized
   weak electric fields
 tags:
-  - EEGmachinelearning
+  - EEG; "machine learning"
 links: []
 image:
   caption: Photo by Neuroelectrics
