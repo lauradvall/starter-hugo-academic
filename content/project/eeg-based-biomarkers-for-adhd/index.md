@@ -6,8 +6,8 @@ draft: false
 featured: false
 external_link: " "
 links:
-  - url: https://linkinghub.elsevier.com/retrieve/pii/S2451902220303487
-    name: Check out the paper
+  - url: https://doi.org/10.3389/fnins.2020.00251
+    name: Paper
 image:
   filename: featured
   focal_point: Smart
