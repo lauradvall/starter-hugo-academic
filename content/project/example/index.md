@@ -6,13 +6,15 @@ summary: Controlling epileptic brain networks with computationally optimized
   weak electric fields
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
-external_link: https://www.galvani-lab.eu
+external_link: " "
 url_slides: ""
 subtitle: Controlling epileptic brain networks with computationally optimized
   weak electric fields
 tags:
   - EEG; "machine learning"
-links: []
+links:
+  - url: https://www.galvani-lab.eu
+    name: Check out the project website
 image:
   caption: Photo by Neuroelectrics
   focal_point: Smart
