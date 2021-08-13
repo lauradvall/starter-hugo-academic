@@ -18,7 +18,7 @@ links:
 image:
   caption: Photo by Neuroelectrics
   focal_point: Smart
-  filename: galvani.png
+  filename: featured.png
   preview_only: false
 url_code: ""
 ---
