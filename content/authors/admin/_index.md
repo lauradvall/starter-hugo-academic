@@ -1,7 +1,7 @@
 ---
 title: Laura Dubreuil Vall
 role: Engineer and Neuroscientist
-avatar_filename: laura-dubreuil-vall.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include neuroscience, electroencephalography, brain
   stimulation, machine learning and healthcare strategy.
 interests:
