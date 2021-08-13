@@ -2,12 +2,13 @@
 slides: example
 url_pdf: ""
 title: Galvani
-summary: An example of using the in-built project page.
+summary: Controlling epileptic brain networks with computationally optimized
+  weak electric fields
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://www.galvani-lab.eu
 url_slides: ""
-subtitle: Controlling epiletic brain networks with computationally optimized
+subtitle: Controlling epileptic brain networks with computationally optimized
   weak electric fields
 tags:
   - EEG; "machine learning"
