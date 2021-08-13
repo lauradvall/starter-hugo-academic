@@ -44,4 +44,4 @@ I graduated in Telecommunications Engineering at Polytechnic University of Catal
 
 I am currently the Neurotech Innovation Lead at the [Neuroscience Product Development](https://www.roche.com/research_and_development/what_we_are_working_on/neuroscience.htm) division of Genentech/Roche in San Francisco (CA), where I bring together the business and academic fields with the goal of bridging the gap between innovative research and successful realization of clinically and commercially viable products for neuroscience. My ultimate goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-dubreuil-vall-pm-roche-updated-1.pdf" "newtab" >}}resumé{{< /staticref >}}.
