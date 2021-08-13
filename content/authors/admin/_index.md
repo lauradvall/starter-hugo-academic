@@ -25,7 +25,7 @@ organizations:
     url: https://www.gene.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Neuroscience
       institution: University of Barcelona
       year: 2020
     - course: MSc in Telecommunications Engineering
