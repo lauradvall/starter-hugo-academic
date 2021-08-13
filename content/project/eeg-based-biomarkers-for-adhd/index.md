@@ -1,10 +1,12 @@
 ---
-title: Deep learning for EEG-based biomarkers for ADHD
+title: EEG-based biomarkers for ADHD
 date: 2021-08-13T16:48:13.594Z
 summary: Deep Learning Convolutional Neural Networks Discriminate Adult ADHD
   From Healthy Individuals on the Basis of Event-Related Spectral EEG
 draft: false
 featured: false
+tags:
+  - DeepLEarning;EEG;ADHD
 external_link: " "
 links:
   - url: https://doi.org/10.3389/fnins.2020.00251
