@@ -1,6 +1,7 @@
 ---
-title: EEG-based biomarkers for ADHD
+title: Deep learning for EEG-based biomarkers for ADHD
 date: 2021-08-13T16:48:13.594Z
+summary: ""
 draft: false
 featured: false
 external_link: " "
