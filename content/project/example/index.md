@@ -16,6 +16,7 @@ links: []
 image:
   caption: Photo by Neuroelectrics
   focal_point: Smart
+  filename: galvani.png
 url_code: ""
 ---
 **Epilepsy** is a neurological disorder affecting 65 million people worldwide. Pharmacological treatments or surgery are ineffective in one-third of the cases – 19 million people.  Recent findings indicate that **non-invasive brain transcranial current stimulation** (tCS/tES) is safe and of therapeutic promise in epilepsy. However, it is not yet indicated as a standard treatment due to major scientific limitations: unknown mechanisms of action, insufficient account for patient-specific factors, poor understanding of short- and long-term effects.
