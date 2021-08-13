@@ -1,8 +1,8 @@
 ---
-title: EEG-based biomarkers for ADHD
+title: Deep Learning for EEG-based biomarkers
 date: 2021-08-13T16:48:13.594Z
-summary: Deep Learning Convolutional Neural Networks Discriminate Adult ADHD
-  From Healthy Individuals on the Basis of Event-Related Spectral EEG
+summary: Deep Learning with EEG Spectrograms enable ADHD diagnosis and
+  Parkinson's prognosis
 draft: false
 featured: false
 tags:
@@ -10,12 +10,14 @@ tags:
 external_link: " "
 links:
   - url: https://doi.org/10.3389/fnins.2020.00251
-    name: Paper
+    name: ADHD Paper
+  - url: https://www.frontiersin.org/articles/10.3389/fneur.2019.00806/full
+    name: Parkinson's paper
 image:
   filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 ---
-Attention deficit hyperactivity disorder (ADHD) is a heterogeneous neurodevelopmental disorder that affects 5% of the pediatric and adult population worldwide. The diagnosis remains essentially clinical, based on history and exam, with no available biomarkers. In this paper, we describe a convolutional neural network (CNN) with a four-layer architecture combining filtering and pooling, which we train using stacked multi-channel EEG time-frequency decompositions (spectrograms) of electroencephalography data (EEG), particularly of event-related potentials (ERP) from ADHD patients (*n* = 20) and healthy controls (*n* = 20) collected during the Flanker Task, with 2800 samples for each group. We treat the data as in audio or image classification approaches, where deep networks have proven successful by exploiting invariances and compositional features in the data. The model reaches a classification accuracy of 88% ± 1.12%, outperforming the Recurrent Neural Network and the Shallow Neural Network used for comparison, and with the key advantage, compared with other machine learning approaches, of avoiding the need for manual selection of EEG spectral or channel features. The event-related spectrograms also provide greater accuracy compared to resting state EEG spectrograms. Finally, through the use of feature visualization techniques such as *DeepDream*, we show that the main features exciting the CNN nodes are a decreased power in the alpha band and an increased power in the delta-theta band around 100 ms for ADHD patients compared to healthy controls, suggestive of attentional and inhibition deficits, which have been previously suggested as pathophyisiological signatures of ADHD. While confirmation with larger clinical samples is necessary, these results suggest that deep networks may provide a useful tool for the analysis of EEG dynamics even from relatively small datasets, highlighting the potential of this methodology to develop biomarkers of practical clinical utility.
+Ever since I began to work on electrophysiology and cognitive research, it has been my foremost conviction that tools like machine learning and deep learning would enable a new paradigm for biomarker discovery in psychiatry and neurology.
 
-[](<>)
+During my PhD, I designed different deep learning architectures to diagnose Attention Deficit Hyperactivity Disorder (ADHD) patients from healthy controls and to predict which patients with REM Behavior Disorder (RBD) would eventually develop Parkinson's disease up to 6 years before they develop any symptoms.
