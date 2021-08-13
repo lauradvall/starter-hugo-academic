@@ -34,7 +34,7 @@ education:
     - course: BSc in Telecommunications Engineering
       institution: Polytechnic University of Catalonia
       year: 2008
-email: ""
+email: LAURADVALL@GMAIL.COM
 superuser: true
 highlight_name: false
 ---
