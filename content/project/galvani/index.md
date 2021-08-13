@@ -8,7 +8,7 @@ draft: false
 featured: false
 categories:
   - Optimization;tDCS;Modelling
-external_link: " "
+external_link: ""
 links:
   - url: https://www.galvani-lab.eu/
     name: Project website
