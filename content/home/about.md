@@ -1,5 +1,5 @@
 ---
-widget: biography
+widget: about
 widget_id: biography
 headless: true
 weight: 20
