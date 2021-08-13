@@ -10,7 +10,7 @@ links:
   - url: https://doi.org/10.3389/fnins.2020.00251
     name: Paper
 image:
-  filename: featured.png
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 ---
