@@ -14,7 +14,7 @@ tags:
   - EEG; "machine learning"
 links:
   - url: https://www.galvani-lab.eu
-    name: Check out the project website
+    name: Website
 image:
   caption: Photo by Neuroelectrics
   focal_point: Smart
