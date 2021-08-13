@@ -1,14 +1,17 @@
 ---
 title: Deep Learning for EEG-based biomarkers
-subtitle: Deep Learning with EEG Spectrograms enable ADHD diagnosis and
-  Parkinson's prognosis
+subtitle: ""
 date: 2021-08-13T16:48:13.594Z
-summary: ""
+summary: Deep Learning with EEG Spectrograms enable ADHD diagnosis and
+  Parkinson's prognosis
 draft: false
 featured: false
 tags:
-  - DeepLEarning;EEG;ADHD
-external_link: ""
+  - EEG
+  - Deep Learning
+  - ADHD
+  - Parkinson's
+external_link: " "
 links:
   - url: https://doi.org/10.3389/fnins.2020.00251
     name: ADHD Paper
