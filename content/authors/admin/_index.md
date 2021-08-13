@@ -1,77 +1,47 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Laura Dubreuil Vall
+role: Engineer and Neuroscientist
+avatar_filename: laura-dubreuil-vall.jpg
+bio: My research interests include neuroscience, electroencephalography, brain
+  stimulation, machine learning and healthcare strategy.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Neuroscience
+  - Electroencephalography (EEG)
+  - Brain stimulation
+  - Machine learning
+  - Healthcare Strategy.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=HveSay8AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/lauradubreuilvall/
+organizations:
+  - name: Genentech (Roche)
+    url: https://www.gene.com/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Artificial Intelligence
+      institution: University of Barcelona
+      year: 2020
+    - course: MSc in Telecommunications Engineering
+      institution: Polytechnic University of Catalonia
+      year: 2011
+    - course: BSc in Telecommunications Engineering
+      institution: Polytechnic University of Catalonia
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+I am an engineer working at the intersection of technology and neuroscience, with a deep passion for understanding the intricacies of the human brain and how this can improve our welfare as a society.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated in Telecommunications Engineering at Polytechnic University of Catalonia (UPC). After completing my master thesis at MIT, I held several research-related roles both in academia and industry ([Starlab](http://www.starlab.es/)). During these years I pursued a PhD in Neuroscience at University of Barcelona in collaboration with Harvard Medical School, while combining it with my job as the Technical Manager at [Neuroelectrics](http://www.neuroelectrics.com/), a startup company designing medical devices for brain monitoring (EEG) and non-invasive brain stimulation (tDCS/tACS/tRNS).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently the Neurotech Innovation Lead at the [Neuroscience Product Development](https://www.roche.com/research_and_development/what_we_are_working_on/neuroscience.htm) division of Genentech/Roche in San Francisco (CA), where I bring together the business and academic fields with the goal of bridging the gap between innovative research and successful realization of clinically and commercially viable products for neuroscience. My ultimate goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
