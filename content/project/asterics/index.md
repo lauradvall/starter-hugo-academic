@@ -13,9 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-During my time at Starlab, I worked in [AsTeRICS](https://project.asterics.eu/) project (Assistive Technology Rapid Integration & Construction Set), where our goal was to develop a construction set for assistive technologies which can be adapted to the motor abilities of end-users. AsTeRICS is intended to allow access to different devices such as PCs, cell phones and smart home devices, with all of them integrated in a platform adapted as much as possible to each user.
+During my time at Starlab, I worked in the [AsTeRICS](https://project.asterics.eu/) project (Assistive Technology Rapid Integration & Construction Set), where our goal was to develop a construction set for assistive technologies which can be adapted to the motor abilities of end-users. AsTeRICS is intended to allow access to different devices such as PCs, cell phones and smart home devices, with all of them integrated in a platform adapted as much as possible to each user.
 
 Possible applications include:
 
