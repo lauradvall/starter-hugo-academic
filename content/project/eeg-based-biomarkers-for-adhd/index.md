@@ -11,7 +11,7 @@ tags:
   - Deep Learning
   - ADHD
   - Parkinson's
-external_link: " "
+external_link: ""
 links:
   - url: https://doi.org/10.3389/fnins.2020.00251
     name: ADHD Paper
