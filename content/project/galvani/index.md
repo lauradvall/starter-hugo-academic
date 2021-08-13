@@ -11,8 +11,8 @@ tags:
   - tDCS
   - Brain modeling
   - Neuromodulation
-categories:
-  - Optimization;tDCS;Modelling
+  - Optimization
+categories: []
 external_link: " "
 links:
   - url: https://www.galvani-lab.eu/
