@@ -9,7 +9,7 @@ links:
   - url: https://cordis.europa.eu/project/id/248620
     name: Website
 image:
-  filename: fatured.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
