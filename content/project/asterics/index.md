@@ -9,7 +9,7 @@ links:
   - url: https://project.asterics.eu/index.php?id=88
     name: Website
 image:
-  filename: featured
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 ---
