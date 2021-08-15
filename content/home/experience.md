@@ -29,7 +29,7 @@ experience:
     location: San Francisco, CA (US)
     date_start: '2020-07-27'
     date_end: ''
-    description: As a Neurotech Innovation Lead at the Neuroscience Product Development division of Genentech/Roche, my goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders. I am currently working on different projects in several neuropsychiatric diseases aimed at predicting disease progression, improving patient stratification, predicting drug responses and developing novel biomarkers.
+    description: As a Neurotech Innovation Lead at the Neuroscience Product Development division of Genentech/Roche, my goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders. I am currently working on different projects using machine learning to develop EEG-based biomarkers to predict disease progression, improve patient stratification and predict drug responses.
         
   - title: Technical Manager
     company: Neuroelectrics
@@ -41,9 +41,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lead the expansion of the company to the US, creating a new team and managing relationships with partners and KOLs in the scientific community.
+        * Product and program management: supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation by leveraging creativity, a deep
+        * Sales: Managed 300+ accounts with large universities and hospitals, from sourcing to closing, negotiating and closing complex deals, meeting over 120% of revenue goals every year in US and Canada.
+        * Business Development: Actively building and maintaining optimal relationships with key opinion leaders in the medical and scientific communities in relation to EEG and neuromodulation (tDCS/tACS/tRNS) tools.
+        * Regulatory: Management of clinical studies and data collection in collaboration with hospitals and universities across the US, including FDA clinical studies and 510k submissions.
 
 
 design:
