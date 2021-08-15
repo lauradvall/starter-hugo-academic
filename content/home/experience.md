@@ -39,7 +39,6 @@ experience:
     date_start: '2014-09-01'
     date_end: '2020-07-26'
     description: |2-
-        Responsibilities include:
         
         * Lead the expansion of the company to the US, creating a new team and managing relationships with partners and KOLs in the scientific community.
         * Product and program management: supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation by leveraging creativity, a deep
