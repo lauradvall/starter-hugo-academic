@@ -29,9 +29,7 @@ experience:
     location: San Francisco, CA (US)
     date_start: '2020-07-27'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
+    description: 
         As a Neurotech Innovation Lead at the Neuroscience Product Development division of Genentech/Roche, my goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders. I am currently working on different projects in several neuropsychiatric diseases aimed at predicting disease progression, improving patient stratification, predicting drug responses and developing novel biomarkers.
         
   - title: Technical Manager
@@ -41,7 +39,7 @@ experience:
     location: Boston, MA (US)
     date_start: '2014-09-01'
     date_end: '2020-07-26'
-    description: 
+    description: |2-
     * Lead the expansion of the company to the US, creating a new team and managing relationships with partners and KOLs in the scientific community.ç
     * Product and program management: supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation by leveraging creativity, a deep understanding of stakeholders, market trends and competitive landscape.
     * Sales: Managed 300+ accounts with large universities and hospitals, from sourcing to closing, negotiating and closing complex deals, meeting over 120% of revenue goals every year in US and Canada.
