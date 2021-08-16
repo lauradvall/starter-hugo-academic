@@ -52,6 +52,7 @@ experience:
     date_start: '2015-09-01'
     date_end: '2020-10-20'
     description: |2-
+    
         * Performed clinical research on the use of EEG as a biomarker for the neuromodulation of executive functions in healthy controls and ADHD patients.
         * Designed a Deep Learning system based on convolutional neural networks to diagnose ADHD patients and explore new biomarkers based on their EEG signals.
         * Statistical and EEG signal processing, time-frequency analysis and their application to multivariate neurophysiological and neuroimaging datasets.
