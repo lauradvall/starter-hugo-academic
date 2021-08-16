@@ -82,7 +82,7 @@ experience:
     date_end: '2011-08-30'
     description: |2-
     
-        * Improved the design of an underwater acoustic video transmission system by adding video compression techniques and signal processing techniques to compensate the Doppler effect. Supervisor: Dr. Milica Stojanovic and Dr. Chryssostomos Chryssostomidis.
+        * Improved the design of an underwater acoustic video transmission system by adding video compression techniques and signal processing techniques to compensate for the Doppler effect. Supervisor: Dr. Milica Stojanovic and Dr. Chryssostomos Chryssostomidis.
         * Evaluated the effects of the Social Impact Assessment prepared for interstate management of herring in the Northeast US. Supervisor: Dr. Madeleine Hall-Arber.
   - title: Intern
     company: Institute of Photonic Sciences (ICFO)
