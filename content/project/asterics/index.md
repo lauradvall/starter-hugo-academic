@@ -4,7 +4,7 @@ date: 2021-08-13T20:46:09.449Z
 summary: Assistive Technology Rapid Integration & Construction Set
 draft: false
 featured: false
-external_link: " "
+external_link: ""
 links:
   - url: https://project.asterics.eu/index.php?id=88
     name: Website
