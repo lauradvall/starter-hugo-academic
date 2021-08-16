@@ -4,7 +4,7 @@ date: 2021-08-15T07:48:06.557Z
 summary: Beaming through augmented media for natural networked gatherings
 draft: false
 featured: false
-external_link: " "
+external_link: ""
 links:
   - url: https://cordis.europa.eu/project/id/248620
     name: Website
