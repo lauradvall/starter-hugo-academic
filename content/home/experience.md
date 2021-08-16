@@ -40,10 +40,10 @@ experience:
     description: |2-
         
         * Lead the expansion of the company to the US, creating a new team and managing relationships with partners and KOLs in the scientific community.
-        * Product and program management: supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation by leveraging creativity, a deep
-        * Sales: Managed 300+ accounts with large universities and hospitals, from sourcing to closing, negotiating and closing complex deals, meeting over 120% of revenue goals every year in US and Canada.
-        * Business Development: Actively building and maintaining optimal relationships with key opinion leaders in the medical and scientific communities in relation to EEG and neuromodulation (tDCS/tACS/tRNS) tools.
-        * Regulatory: Management of clinical studies and data collection in collaboration with hospitals and universities across the US, including FDA clinical studies and 510k submissions.
+        * Supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation by leveraging creativity, a deep
+        * Managed 300+ accounts with large universities and hospitals, from sourcing to closing, negotiating and closing complex deals, meeting over 120% of revenue goals every year in US and Canada.
+        * Actively built and maintained relationships with KOLs in the medical and scientific communities in relation to EEG and neuromodulation (tDCS/tACS/tRNS) tools.
+        * Management of clinical studies and data collection in collaboration with hospitals and universities across the US, including FDA clinical studies and 510k submissions.
   - title: Research Fellow
     company: Harvard Medical School, Neuropsychiatry and Neuromodulation Lab
     company_url: 'https://pnn.mgh.harvard.edu/'
@@ -54,11 +54,7 @@ experience:
     description: |2-
     
         * Performed clinical research on the use of EEG as a biomarker for the neuromodulation of executive functions in healthy controls and ADHD patients.
-        * Designed a Deep Learning system based on convolutional neural networks to diagnose ADHD patients and explore new biomarkers based on their EEG signals.
-        * Statistical and EEG signal processing, time-frequency analysis and their application to multivariate neurophysiological and neuroimaging datasets.
-        * Data-driven algorithm design and translation of exploratory data analyses into decoding models.
-        * Hardware and software multimodal data acquisition, instrumentation, and human-machine interfaces.
-        * Perceptual/behavioral evaluations and physiological measurements as a biomarker of neuromodulation of executive functions.
+        * Designed a deep Learning system based on convolutional neural networks to diagnose ADHD patients and explore new biomarkers based on their EEG signals.
   - title: Research Engineer, Project Manager
     company: Starlab
     company_url: 'www.starlab.es'
