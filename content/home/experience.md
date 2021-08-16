@@ -70,6 +70,7 @@ experience:
         
         * Signal processing and data analysis for the design and development of systems based on electroencephalography (EEG) for brain computer interfaces (BCI), Neurofeedback and health/medical applications.
         * Research in transcranial Current Stimulation (tDCS, tACS and tRNS) for different applications, such as learning and cognitive enhancement or the treatment of chronic pain, post stroke rehabilitation, addictive disorders and depression, among others.
+  - title: Consultant in Life Sciences
     company: Ernst & Young
     company_url: 'https://www.ey.com/'
     company_logo: ey
