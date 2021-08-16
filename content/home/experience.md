@@ -29,7 +29,7 @@ experience:
     location: San Francisco, CA (US)
     date_start: '2020-07-27'
     date_end: ''
-    description: As a Neurotech Innovation Lead at the Neuroscience Product Development division of Genentech/Roche, my goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders. I am currently working on different projects using machine learning to develop EEG-based biomarkers to predict disease progression, improve patient stratification and predict drug responses.
+    description: 'As a Neurotech Innovation Lead at the Neuroscience Product Development division of Genentech/Roche, my goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders. I am currently working on different projects using machine learning to develop EEG-based biomarkers to predict disease progression, improve patient stratification and predict drug responses.'
         
   - title: Technical Manager
     company: Neuroelectrics
@@ -45,6 +45,41 @@ experience:
         * Sales: Managed 300+ accounts with large universities and hospitals, from sourcing to closing, negotiating and closing complex deals, meeting over 120% of revenue goals every year in US and Canada.
         * Business Development: Actively building and maintaining optimal relationships with key opinion leaders in the medical and scientific communities in relation to EEG and neuromodulation (tDCS/tACS/tRNS) tools.
         * Regulatory: Management of clinical studies and data collection in collaboration with hospitals and universities across the US, including FDA clinical studies and 510k submissions.
+
+  - title: Research Fellow
+    company: Harvard Medical School, Neuropsychiatry and Neuromodulation Lab
+    company_url: 'https://pnn.mgh.harvard.edu/'
+    company_logo: harvard
+    location: Boston, MA (US)
+    date_start: '2015-09-01'
+    date_end: '2020-10-20'
+    description: |2-
+        * Performed clinical research on the use of EEG as a biomarker for the neuromodulation of executive functions in healthy controls and ADHD patients.
+        * Designed a Deep Learning system based on convolutional neural networks to diagnose ADHD patients and explore new biomarkers based on their EEG signals.
+        * Statistical and EEG signal processing, time-frequency analysis and their application to multivariate neurophysiological and neuroimaging datasets.
+        * Data-driven algorithm design and translation of exploratory data analyses into decoding models.
+        * Hardware and software multimodal data acquisition, instrumentation, and human-machine interfaces.
+        * Perceptual/behavioral evaluations and physiological measurements as a biomarker of neuromodulation of executive functions.
+
+  - title: Research Engineer, Project Manager
+    company: Starlab
+    company_url: 'www.starlab.es'
+    company_logo: starlab
+    location: Barcelona
+    date_start: '2012-07-01'
+    date_end: '2014-08-31'
+    description: |2-
+        
+        * Signal processing and data analysis for the design and development of systems based on electroencephalography (EEG) for brain computer interfaces (BCI), Neurofeedback and health/medical applications.
+        * Research in transcranial Current Stimulation (tDCS, tACS and tRNS) for different applications, such as learning and cognitive enhancement or the treatment of chronic pain, post stroke rehabilitation, addictive disorders and depression, among others.
+
+    company: Ernst & Young
+    company_url: 'https://www.ey.com/'
+    company_logo: ey
+    location: Barcelona
+    date_start: '2011-10-01'
+    date_end: '2012-04-30'
+    description: 'Strategic and management consulting in life sciences industries, including Biotechnology, Healthcare, Pharmaceutical and Medical Devices.'
 
 
 design:
