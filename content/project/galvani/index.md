@@ -13,7 +13,7 @@ tags:
   - Neuromodulation
   - Optimization
 categories: []
-external_link: " "
+external_link: ""
 links:
   - url: https://www.galvani-lab.eu/
     name: Project website
