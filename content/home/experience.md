@@ -25,7 +25,7 @@ experience:
   - title: Clinical Scientist, Neurotech Innovation Lead
     company: Genentech (Roche)
     company_url: 'https://www.roche.com/research_and_development/what_we_are_working_on/neuroscience.htm'
-    company_logo: org-gc
+    company_logo: genentech-vector-logo
     location: San Francisco, CA (US)
     date_start: '2020-07-27'
     date_end: ''
