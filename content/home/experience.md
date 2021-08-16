@@ -74,6 +74,25 @@ experience:
     date_start: '2011-10-01'
     date_end: '2012-04-30'
     description: 'Strategic and management consulting in life sciences industries, including Biotechnology, Healthcare, Pharmaceutical and Medical Devices.'
+  - title: Research Scholar
+    company: Massachusetts Institute of Technology (MIT)
+    company_url: 'https://seagrant.mit.edu/'
+    company_logo: mit
+    location: Boston, MA (US)
+    date_start: '2011-02-01'
+    date_end: '2011-08-30'
+    description: |2-
+    
+        * Wireless Underwater Video Transmission: improved the design of an underwater acoustic video transmission system under the supervision of Dr. Chryssostomos Chryssostomidis.
+        * Evaluated the effects of the Social Impact Assessment prepared for interstate management of herring in the Northeast US. Supervisor: Dr. Madeleine Hall-Arber.
+  - title: Intern
+    company: Institute of Photonic Sciences (ICFO)
+    company_url: 'https://www.icfo.eu/'
+    company_logo: icfo
+    location: Barcelona
+    date_start: '2009-07-01'
+    date_end: '2009-09-30'
+    description: 'Worked in the “Quantum engineering of light” team by exploring fundamental aspects of quantum theory and enabling the implementation of applications that might require specific types of quantum or classical light, especially in communications and high-resolution probing and imaging. Supervisor: Dr. Juan Pérez.'
 
 
 design:
