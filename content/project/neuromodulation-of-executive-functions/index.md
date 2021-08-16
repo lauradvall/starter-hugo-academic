@@ -6,7 +6,7 @@ summary: tDCS to the left DLPFC modulates executive functions in healthy
   controls and ADHD patients
 draft: false
 featured: false
-external_link: " "
+external_link: ""
 links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S1935861X19302311
     name: Healthy controls paper
