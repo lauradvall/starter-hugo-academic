@@ -73,7 +73,7 @@ experience:
   - title: Consultant in Life Sciences
     company: Ernst & Young
     company_url: 'https://www.ey.com/'
-    company_logo: ey
+    company_logo: EY_logo_2019
     location: Barcelona
     date_start: '2011-10-01'
     date_end: '2012-04-30'
