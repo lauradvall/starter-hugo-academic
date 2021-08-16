@@ -62,7 +62,7 @@ experience:
   - title: Research Engineer, Project Manager
     company: Starlab
     company_url: 'www.starlab.es'
-    company_logo: starlab
+    company_logo: org-x
     location: Barcelona
     date_start: '2012-07-01'
     date_end: '2014-08-31'
