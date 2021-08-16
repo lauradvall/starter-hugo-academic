@@ -40,9 +40,8 @@ experience:
     description: |2-
         
         * Lead the expansion of the company to the US, creating a new team and managing relationships with partners and KOLs in the scientific community.
-        * Supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation by leveraging creativity, a deep
-        * Managed 300+ accounts with large universities and hospitals, from sourcing to closing, negotiating and closing complex deals, meeting over 120% of revenue goals every year in US and Canada.
-        * Actively built and maintained relationships with KOLs in the medical and scientific communities in relation to EEG and neuromodulation (tDCS/tACS/tRNS) tools.
+        * Supported product strategy of a medical wearable device for EEG recording and non-invasive brain stimulation (tDCS/tACS/tRNS).
+        * Managed 300+ accounts with large universities and hospitals, meeting over 120% of revenue goals every year in US and Canada.
         * Management of clinical studies and data collection in collaboration with hospitals and universities across the US, including FDA clinical studies and 510k submissions.
   - title: Research Fellow
     company: Harvard Medical School, Neuropsychiatry and Neuromodulation Lab
