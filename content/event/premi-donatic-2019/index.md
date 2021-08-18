@@ -1,17 +1,12 @@
 ---
 title: Premi DonaTIC 2019
 abstract: >-
-  I am especially concerned with the small number of women involved in STEM
-  fields, both at academia and industry. Stereotypes place women at
-  non-technical roles in society, and the scarcity of current female
-  professionals in technology and scientific careers that could encourage young
-  women to develop a career in IT also creates a Catch-22 situation. For this
-  reason, it is especially important that women professionals explain their work
-  to high schools students and share their experiences with the goal of
-  encouraging and normalizing the presence of women in STEM.
-
-
-  In this line, in 2019 I received the “Dona TIC” award by the Catalan government to women in STEM fields. The goal of this award is to recognize and promote the fundamental role of women in the professional, business and academic world of new technologies, and to provide new female role models to young women in order to encourage them to develop their careers in STEM disciplines (science, technology, engineering and mathematics).
+  In 2019 I received the “Dona TIC” award by the Catalan government to women in
+  STEM fields. The goal of this award is to recognize and promote the
+  fundamental role of women in the professional, business and academic world of
+  new technologies, and to provide new female role models to young women in
+  order to encourage them to develop their careers in STEM disciplines (science,
+  technology, engineering and mathematics).
 
 
   I was recently interviewed regarding this award at FibraCat TV, a national Catalan TV channel promoting the role of women in technology: 
