@@ -13,7 +13,7 @@ abstract: >-
   In this line, in 2019 I received the “Dona TIC” award by the Catalan government to women in STEM fields. The goal of this award is to recognize and promote the fundamental role of women in the professional, business and academic world of new technologies, and to provide new female role models to young women in order to encourage them to develop their careers in STEM disciplines (science, technology, engineering and mathematics).
 
 
-  I was recently interviewed regarding this award at FibraCat TV, a national Catalan TV channel promoting the role of women in technology:
+  I was recently interviewed regarding this award at FibraCat TV, a national Catalan TV channel promoting the role of women in technology: {{< youtube zkiiGIfwQqo >}}
 location: FibraCAT TV
 date: 2021-04-09T14:28:32.029Z
 date_end: 2021-04-09T04:00:00.000Z
