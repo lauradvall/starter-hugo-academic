@@ -32,7 +32,7 @@ experience:
     description: 'As a Neurotech Innovation Lead at the Neuroscience Product Development division of Genentech/Roche, my goal is to identify and develop new technologies at the intersection of engineering, data/AI and medicine, bringing neurotech into biotechnology and leading the transformation of traditional diagnostics and therapies for psychiatric and neurological disorders. I am currently working on different projects using machine learning to develop EEG-based biomarkers to predict disease progression, improve patient stratification and predict drug responses.'
   - title: Technical Manager
     company: Neuroelectrics
-    company_url: 'www.neuroelectrics.com'
+    company_url: 'https://www.neuroelectrics.com'
     company_logo: neuroelectrics
     location: Boston, MA (US)
     date_start: '2014-09-01'
