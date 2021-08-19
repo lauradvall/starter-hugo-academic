@@ -7,6 +7,12 @@ authors:
   - "Editors: Davide Cirillo"
   - Silvina Solarz
   - Emre Guney
+author_notes:
+  - "Section authors: Laura Dubreuil-Vall"
+  - Tracy Laabs
+  - Harris A. Eyre
+  - Erin Smith
+  - Silvina Catuara Solarz
 publication: Elsevier
 abstract: >
   Sex and Gender Bias in Technology and Artificial Intelligence: Biomedicine and
@@ -26,6 +32,7 @@ abstract: >
   better future technologies and more effective clinical approaches.
 draft: false
 featured: true
+tags: []
 image:
   filename: featured.png
   focal_point: Smart
