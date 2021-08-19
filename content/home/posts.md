@@ -21,6 +21,5 @@ content:
   order: desc
 design:
   view: 2
-active: false
 
 ---
