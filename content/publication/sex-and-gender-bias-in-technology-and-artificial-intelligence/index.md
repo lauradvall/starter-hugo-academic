@@ -4,7 +4,7 @@ subtitle: Sex differences in invasive and non invasive neurotechnologies
 publication_types:
   - "6"
 authors:
-  - Davide Cirillo
+  - "Editors: Davide Cirillo"
   - Silvina Solarz
   - Emre Guney
 publication: Elsevier
@@ -27,7 +27,7 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: sex-and-gender-bias-in-technology-and-artificial-intelligence.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: ""
