@@ -7,7 +7,7 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
   caption: Yosemite Valley, California, US
