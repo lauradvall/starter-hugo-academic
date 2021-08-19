@@ -1,6 +1,5 @@
 ---
-title: EEG biomarkers of tDCS neuromodulation of executive functions in healthy
-  and ADHD populations
+title: NYC Neuromodulation 2020
 abstract: >-
   Numerical head models in transcranial electrical stimulation (tES) have become
   a powerful and robust tool for planning stimulation. Due to the development of
