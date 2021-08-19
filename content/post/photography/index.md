@@ -1,12 +1,13 @@
 ---
 title: Photography
+subtitle: ""
 date: 2021-08-19T16:52:39.276Z
 draft: false
 featured: false
 authors:
   - admin
 image:
-  filename: dsc_0178-2.jpeg
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
   caption: Yosemite Valley, California, US
