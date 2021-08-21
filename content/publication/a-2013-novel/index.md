@@ -1,35 +1,30 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: A Novel Neurofeedback Tool for ADHD Training
-subtitle: ''
-summary: ''
+subtitle: ""
+publication_types:
+  - "1"
 authors:
-- L. Dubreuil-Vall, O. Ripolles A. Riera D. Ibáñez
+  - L. Dubreuil-Vall, O. Ripolles A. Riera D. Ibáñez
+publication: "*Proceedings of Amrita Bioquest Conference*"
+abstract: Neurofeedback (NF) is a type of biofeedback that uses real time
+  display of electroencephalography to illustrate brain activity. EEG features
+  are extracted and displayed allowing the user to, with practice, modulate
+  their temporal evolution. Neurofeedback training has many therapeutic
+  applications such as attention deficit hyperactivity disorder (ADHD),
+  migraine, depression or conduct disorders. This document presents NeuroSurfer,
+  a novel general-purpose tool for neurofeedback training with a use case of
+  attention deficit hyperactivity disorder (ADHD) treatment.
+draft: false
+featured: false
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2021-08-21T10:45:58-04:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-21T14:46:08.817327Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Proceedings of Amrita Bioquest Conference*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2021-08-21T10:45:58-04:00
+date: 2013-01-01
+publishDate: 2021-08-21T14:46:08.817327Z
 ---
