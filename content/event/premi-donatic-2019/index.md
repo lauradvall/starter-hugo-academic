@@ -25,3 +25,14 @@ image:
   preview_only: false
 ---
 {{< youtube zkiiGIfwQqo >}}
+
+Some of the articles featuring this award are included below:
+
+* [Biografia Laura Dubreuil Vall – Premi Dona TIC](https://lauradubreuilvall.files.wordpress.com/2021/05/laura-dubreuil-vall-biografia-2021.pdf)[Download](https://lauradubreuilvall.files.wordpress.com/2021/05/laura-dubreuil-vall-biografia-2021.pdf)
+* [Premi Dona TIC,](http://politiquesdigitals.gencat.cat/ca/tic/premisdonatic/guardonades-edicions-anteriors/guardonades-edicio-2019/) Generalitat de Catalunya
+* [La sabadellenca Laura Dubreuil, premi Dona TIC de la Generalitat](https://www.diaridesabadell.com/2019/10/09/laura-dubreuil-escola-pia-premi-dona-tic-generalitat/), Diari de Sabadell
+* [​La sabadellenca Laura Dubreuil, reconeguda amb els Premis Dona TIC](https://www.naciodigital.cat/sabadell/noticia/26922/sabadellenca/laura/dubreuil/reconeguda/amb/premis/dona/tic), Nació Digital
+* [Laura Dubreuil premi Dona TIC de la Generalitat](http://sabadell.escolapia.cat/2019/10/laura-dubreuil-premi-dona-tic-de-la.html), Escola Pia Sabadell
+* [La guanyadora del Dona TIC 2019: “les dones aporten una visió diferent al resoldre problemes”,](https://www.isabadell.cat/sabadell/societat/tecnologia-societat/la-guanyadora-del-dona-tic-2019-les-dones-aporten-una-visio-diferent-en-la-resolucio-de-problemes/) iSabadell
+* [“Nessun dorma” pel talent femení](https://www.viaempresa.cat/empresa/premis-dona-tic-2019_2074815_102.html), Via Empresa
+* [Los Premis Dona TIC reconocen el talento y emprendeduría digital femenina](https://www.lavanguardia.com/vida/20191008/47875561376/catalunya-los-premis-dona-tic-reconocen-el-talento-y-emprendeduria-digital-femenina.html), La Vanguardia
