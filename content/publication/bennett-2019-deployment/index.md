@@ -10,7 +10,7 @@ authors:
   - Jorge Leite
   - Giulio Ruffini
   - Lotfi B Merabet
-doi: https://link.springer.com/chapter/10.1007/978-3-030-11051-2_5
+doi: 10.1007/978-3-030-11051-2_5
 publication: "*International Conference on Intelligent Human Systems Integration*"
 abstract: "Little is known about how the brain processes information while
   navigating without visual cues. Technical limitations recording brain activity
