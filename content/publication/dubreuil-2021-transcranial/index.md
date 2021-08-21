@@ -55,6 +55,6 @@ image:
   filename: featured.png
 summary: ""
 lastmod: 2021-08-21T10:45:59-04:00
-date: 2021-01-01
+date: 2021-08-21T18:13:16.402Z
 publishDate: 2021-08-21T14:46:10.174Z
 ---
