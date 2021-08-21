@@ -35,7 +35,7 @@ abstract: >-
   Results: Anodal tDCS to the left dorsolateral prefrontal cortex modulated cognitive (reaction time) and physiological (P300 amplitude) measures in the Eriksen flanker task in a state-dependent manner, but no effects were found in the stop signal reaction time of the stop signal task.
 
 
-  Conclusions: These findings show procognitive effects in ADHD associated with the modulation of event-related potential signatures of cognitive control, linking target engagement with cognitive benefit, proving the value of event-related potentials as cross-sectional biomarkers of executive performance, and mechanistically supporting the state-dependent nature of tDCS. We interpret these results as an improvement in cognitive control but not action cancellation, supporting the existence of different impulsivity constructs with overlapping but distinct anatomical substrates, and highlighting the implications for the development of individualized therapeutics.
+  Conclusions: These findings show procognitive effects in ADHD associated with the modulation of event-related potential signatures of cognitive control, linking target engagement with cognitive benefit, proving the value of event-related potentials as cross-sectional biomarkers of executive performance, and mechanistically supporting the state-dependent nature of tDCS. We interpret these results as an improvement in cognitive control but not action cancellation, supporting the existence of different impulsivity constructs with overlapping but distinct anatomical substrates, and highlighting the implications for the development of individualized therapeutics
 draft: false
 featured: false
 tags:
@@ -46,7 +46,8 @@ tags:
   - Executive function
   - tDCS
 categories: []
-projects: []
+projects:
+  - Neuromodulation of executive functions
 image:
   caption: ""
   focal_point: ""
