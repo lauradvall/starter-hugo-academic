@@ -6,13 +6,12 @@ publication_types:
 authors:
   - "Editors: Davide Cirillo"
   - Silvina Solarz
-  - Emre Guney
-author_notes:
-  - "Section authors: Laura Dubreuil-Vall"
+  - "Emre Guney. Section authors: Laura Dubreuil-Vall"
   - Tracy Laabs
   - Harris A. Eyre
   - Erin Smith
   - Silvina Catuara Solarz
+author_notes: []
 publication: Elsevier
 abstract: >
   "Sex and Gender Bias in Technology and Artificial Intelligence: Biomedicine
