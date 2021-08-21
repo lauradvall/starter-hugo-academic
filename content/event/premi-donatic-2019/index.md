@@ -32,7 +32,6 @@ image:
 
 Some of the articles featuring this award are included below:
 
-* [Biografia Laura Dubreuil Vall – Premi Dona TIC](https://lauradubreuilvall.files.wordpress.com/2021/05/laura-dubreuil-vall-biografia-2021.pdf)[Download](https://lauradubreuilvall.files.wordpress.com/2021/05/laura-dubreuil-vall-biografia-2021.pdf)
 * [Premi Dona TIC,](http://politiquesdigitals.gencat.cat/ca/tic/premisdonatic/guardonades-edicions-anteriors/guardonades-edicio-2019/) Generalitat de Catalunya
 * [La sabadellenca Laura Dubreuil, premi Dona TIC de la Generalitat](https://www.diaridesabadell.com/2019/10/09/laura-dubreuil-escola-pia-premi-dona-tic-generalitat/), Diari de Sabadell
 * [​La sabadellenca Laura Dubreuil, reconeguda amb els Premis Dona TIC](https://www.naciodigital.cat/sabadell/noticia/26922/sabadellenca/laura/dubreuil/reconeguda/amb/premis/dona/tic), Nació Digital
