@@ -36,6 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: featured.png
 summary: ""
 lastmod: 2021-08-21T10:45:57-04:00
 date: 2019-01-01
