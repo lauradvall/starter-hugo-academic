@@ -10,7 +10,7 @@ tags:
   - tDCS
   - ADHD
   - Executive function
-external_link: " "
+external_link: ""
 links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S1935861X19302311
     name: Healthy controls paper
