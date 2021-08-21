@@ -40,3 +40,4 @@ lastmod: 2021-08-21T10:45:57-04:00
 date: 2011-01-01
 publishDate: 2021-08-21T14:46:08.214964Z
 ---
+Full paper can be found [here](http://wuwnet.acm.org/2011/demos/video_in_air.pdf).
