@@ -14,7 +14,7 @@ authors:
   - DJ Edwards
 doi: 10.1016/j.brs.2017.01.094
 publication: "*Brain Stimulation: Basic, Translational, and Clinical Research in
-  Neuromodulation*"
+  Neuromodulation, as part of NYC Neuromodulation 2017 conference*"
 abstract: >-
   Introduction: Existing strategies to enhance motor function following Spinal
   Cord Injury (SCI) are suboptimal leaving patients with considerable
@@ -38,7 +38,7 @@ draft: false
 featured: false
 tags:
   - tDCS
-  - SCI
+  - Spinal Cord Injury
   - EEG
 categories: []
 projects: []
