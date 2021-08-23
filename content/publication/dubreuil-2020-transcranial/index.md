@@ -21,13 +21,10 @@ abstract: >-
   Background: ADHD is a neurodevelopmental disorder associated with significant
   morbidity and mortality that affects 5% of children, adolescents and adults
   worldwide. Pharmacological and behavioral therapies exist, but critical
-  symptoms such as dysexecutive deficits remain unaffected. Objective: To assess
-  the cognitive and physiological effects of transcranial Direct Current
-  Stimulation (tDCS) in adult ADHD patients in order to understand (1) the role
-  of dorsolateral prefrontal cortex (DLPFC) laterality in ADHD dysexecutive
-  deficits, (2) the physiological dynamics sustaining the modulation of
-  executive function by tDCS, and (3) the impact of baseline physiological state
-  on tDCS modulation.
+  symptoms such as dysexecutive deficits remain unaffected.
+
+
+  Objective: To assess the cognitive and physiological effects of transcranial Direct Current Stimulation (tDCS) in adult ADHD patients in order to understand (1) the role of dorsolateral prefrontal cortex (DLPFC) laterality in ADHD dysexecutive deficits, (2) the physiological dynamics sustaining the modulation of executive function by tDCS, and (3) the impact of baseline physiological state on tDCS modulation.
 
 
   Methods: In a randomized, placebo-controlled, double-blind, cross-over study 40 adult ADHD patients performed three experimental sessions in which they received 30 minutes of 2mA tDCS stimulation targeting the left versus right DLPFC versus sham. Before and after each session, half of the participants completed the Flanker task (EFT) and the other half performed the Stop Signal Task (SST) while we assessed behavioral performance and EEG. 
