@@ -59,6 +59,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpeg
+url_pdf: https://www.frontiersin.org/articles/10.3389/fneur.2019.00806/pdf
 summary: ""
 lastmod: 2021-08-21T10:45:59-04:00
 date: 2019-01-07T05:00:00.000Z
