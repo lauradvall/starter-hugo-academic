@@ -13,7 +13,7 @@ authors:
   - Jean-François Gagnon
   - Jacques Montplaisir
 doi: 10.3389/fneur.2019.00806
-publication: Frontiers in Neurology
+publication: "*Frontiers in Neurology*"
 abstract: REM Behavior Disorder (RBD) is now recognized as the prodromal stage
   of α synucleinopathies such as Parkinson's disease (PD). In this paper, we
   describe deep learning models for diagnosis/prognosis derived from a few
@@ -62,5 +62,5 @@ image:
 summary: ""
 lastmod: 2021-08-21T10:45:59-04:00
 date: 2019-01-07T05:00:00.000Z
-publishDate: 2021-08-21T14:46:10.024545Z
+publishDate: 2021-08-21T14:46:10.024Z
 ---
