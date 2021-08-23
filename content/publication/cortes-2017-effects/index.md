@@ -16,24 +16,30 @@ doi: 10.1016/j.brs.2017.01.094
 publication: "*Brain Stimulation: Basic, Translational, and Clinical Research in
   Neuromodulation*"
 abstract: >-
-  Background: Existing strategies to enhance motor function following Spinal
+  Introduction: Existing strategies to enhance motor function following Spinal
   Cord Injury (SCI) are suboptimal leaving patients with considerable
   disability. Available evidence suggests that transcranial direct current
-  stimulation (tDCS) is a promising method to improve
-
-  motor dysfunction. How tDCS affects resting brain activity monitored by EEG is little explored.
-
-
-  Methods: We conducted a randomized, single blind, shamcontrolled, cross-over study in seven chronic SCI subjects with cervical lesions. We investigated the effects of 20-minute anodal tDCS applied over the left primary motor cortex (M1) on electroencephalography (EEG) power spectrum density, coherence and frequency band power. Subjects were randomized to receive either 1 mA or sham stimulation. The EEG data acquisition pre and post stimulation comprised 5-minute takes of 24 bit, 500 S/s 8-channel EEG using StarStim Ag/AgCl EEG electrodes (at F3, F4, Cz, C4, P3 and P4; and Pi Ag/AgCl electrodes at C3, anode, AF8, return).
-
-
-  Results: In comparison to sham stimulation, 20-minutes of active 1 mA tDCS induced a pattern of faster activity around the anodal stimulating electrode, and slowing activity near the return electrode in the frequency (full band) and mean power domain (gamma band). In addition, tDCS increased coherence in the fastest bands (gamma, beta 2) and decreased coherence in slower frequency bands (theta, SMR), with no relation with brain topography or the stimulation electrode polarity. 
+  stimulation (tDCS) has emerged as a promising method to improve motor
+  dysfunction in other neurological disorders. However, little is known about
+  the specific brain changes that result in improved motor performance following
+  tDCS. Studying electroencephalography (EEG) responses to tDCS, has not
+  beenwell-explored, and may provide us with valuable insight regarding the
+  effects of neuromodulation techniques for individuals with SCI.
 
 
-  Conclusions: These findings show that tDCS is capable of inducing modulation of ongoing oscillatory brain rhythms captured by EEG, in spinal cord injury patients. The combined use of EEG and tDCS sets the stage for optimizing tDCS protocols targeting motor cortex and may have application in treatment of motor dysfunction and chronic pain.
+  Methods: We conducted a randomized, single blind, sham-controlled, cross-over study in seven chronic SCI subjects with cervical lesions. We investigated the effects of 20-minute anodal tDCS applied over the left primary motor cortex (M1) on EEG power spectrum density, coherence and frequency band power. Subjects were randomized to receive either 1mA or sham stimulation. The EEG data acquisition pre- and post- stimulation comprised 5-minute epochs of 8-channel EEG using the Neuroelectrics ‘StarStim’ system with Ag/AgCl electrodes.
+
+
+  Results: In comparison to sham stimulation, 20-minutes of anodal 1mA tDCS induced a pattern of higher frequency activity around the anodal stimulating electrode, and lower frequency activity near the return electrode in the frequency (full band) and mean power domain (gamma band). In addition, tDCS increased coherence in the fastest bands (gamma, beta 2) and decreased coherence in slower frequency bands (theta, SMR), with no relation with brain topography or the stimulation electrode polarity.
+
+
+  Discussion: These findings show that tDCS create quantitative changes to EEG in SCI survivors. These EEG changes are consistent with changes that are observed in tDCS protocols that result in improved motor outcomes for other neurological conditions such as chronic stroke. Our result sets the stage for optimizing tDCS protocols that can be used for the treatment of motor dysfunction in individuals with SCI.
 draft: false
 featured: false
-tags: []
+tags:
+  - tDCS
+  - SCI
+  - EEG
 categories: []
 projects: []
 image:
