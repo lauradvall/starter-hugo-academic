@@ -21,6 +21,7 @@ abstract: In this paper, we present the development of an in-air acoustic
   modulation technique as it provides robust high speed acoustic communication
   over underwater channels which are characterized by frequency selectivity and
   Doppler distortion.
+url_pdf: http://wuwnet.acm.org/2011/demos/video_in_air.pdf
 draft: false
 featured: false
 tags:
