@@ -23,6 +23,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+url_pdf: https://www.amritabioquest.org/conference/2013/event/delegate-talk-brainsurfer-a-novel-neurofeedback-tool-for-adhd-training/
 summary: ""
 lastmod: 2021-08-21T10:45:58-04:00
 date: 2013-01-01
