@@ -51,16 +51,16 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: >-
-  - Anodal tDCS to the left DLPFC leads to faster reaction times in the Flanker
-  task.
-
-  - Cognitive improvement is correlated with changes in N200 and P300 amplitudes.
-
-  - Baseline physiology predicts cognitive and physiological effects of tDCS.
-
-  - N200 and P300 amplitudes correlate with reaction time on a trial by trial basis.
+summary: ""
 lastmod: 2021-08-21T10:46:06-04:00
 date: 2019-01-01
 publishDate: 2021-08-21T14:46:06.702699Z
 ---
+
+
+## Highlights
+
+* Anodal tDCS to the left DLPFC leads to faster reaction times in the Flanker task.
+* Cognitive improvement is correlated with changes in N200 and P300 amplitudes.
+* Baseline physiology predicts cognitive and physiological effects of tDCS.
+* N200 and P300 amplitudes correlate with reaction time on a trial by trial basis.
