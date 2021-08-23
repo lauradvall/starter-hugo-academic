@@ -47,6 +47,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpeg
+url_pdf: https://www.frontiersin.org/articles/10.3389/fnins.2020.00251/pdf
 summary: ""
 lastmod: 2021-08-21T10:45:56-04:00
 date: 2020-01-01
