@@ -18,7 +18,7 @@ doi: 10.1176/appi.neuropsych.19100220
 publication: "*J31st Annual Meeting of the American Neuropsychiatric
   Association. J Neuropsychiatry Clin Neurosci*"
 abstract: >-
-  *Background* ADHD is a neurodevelopmental disorder associated with significant
+  Background: ADHD is a neurodevelopmental disorder associated with significant
   morbidity and mortality that affects 5% of children, adolescents and adults
   worldwide. Pharmacological and behavioral therapies exist, but critical
   symptoms such as dysexecutive deficits remain unaffected. Objective: To assess
