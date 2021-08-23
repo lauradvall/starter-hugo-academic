@@ -1,5 +1,5 @@
 ---
-title: A Novel Neurofeedback Tool for ADHD Training
+title: "Neurosurfer: A Novel Neurofeedback Tool for ADHD Training"
 subtitle: ""
 publication_types:
   - "1"
@@ -26,5 +26,5 @@ image:
 summary: ""
 lastmod: 2021-08-21T10:45:58-04:00
 date: 2013-01-01
-publishDate: 2021-08-21T14:46:08.817327Z
+publishDate: 2021-08-21T14:46:08.817Z
 ---
