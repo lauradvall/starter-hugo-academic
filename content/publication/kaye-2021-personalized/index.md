@@ -35,7 +35,9 @@ abstract: >-
   Conclusions: This pilot study supports the safety and efficacy of multifocal, personalized, multichannel, cathodal transcranial direct current stimulation for adult and pediatric patients with medication-refractory focal epilepsy, although identifies a possibility of seizure exacerbation in some. The data also provide insight into the effect size to inform the design of a randomized, sham-stimulation controlled trial.
 draft: false
 featured: false
-tags: []
+tags:
+  - tDCS
+  - Epilepsy
 categories: []
 projects: []
 image:
@@ -46,5 +48,5 @@ image:
 summary: ""
 lastmod: 2021-08-21T10:45:59-04:00
 date: 2021-01-01
-publishDate: 2021-08-21T14:46:10.617947Z
+publishDate: 2021-08-21T14:46:10.617Z
 ---
