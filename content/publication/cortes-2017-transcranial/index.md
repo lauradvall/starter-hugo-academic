@@ -12,7 +12,7 @@ authors:
   - Dylan Edwards
 doi: 10.1016/j.brs.2016.11.061
 publication: "*Brain Stimulation: Basic, Translational, and Clinical Research in
-  Neuromodulation*"
+  Neuromodulation, as part of NYC Neuromodulation 2017 conference*"
 abstract: >-
   
   Background: Existing strategies to enhance motor function following Spinal Cord Injury (SCI) are suboptimal leaving patients with considerable disability. Available evidence suggests that transcranial direct current stimulation (tDCS) is a promising method to improve motor dysfunction. How tDCS affects resting brain activity monitored by EEG is little explored.
