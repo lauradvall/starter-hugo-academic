@@ -28,8 +28,6 @@ image:
 
 
 
-
-
 Some of the articles featuring this award are included below:
 
 * [Premi Dona TIC,](http://politiquesdigitals.gencat.cat/ca/tic/premisdonatic/guardonades-edicions-anteriors/guardonades-edicio-2019/) Generalitat de Catalunya
@@ -39,3 +37,5 @@ Some of the articles featuring this award are included below:
 * [La guanyadora del Dona TIC 2019: “les dones aporten una visió diferent al resoldre problemes”,](https://www.isabadell.cat/sabadell/societat/tecnologia-societat/la-guanyadora-del-dona-tic-2019-les-dones-aporten-una-visio-diferent-en-la-resolucio-de-problemes/) iSabadell
 * [“Nessun dorma” pel talent femení](https://www.viaempresa.cat/empresa/premis-dona-tic-2019_2074815_102.html), Via Empresa
 * [Los Premis Dona TIC reconocen el talento y emprendeduría digital femenina](https://www.lavanguardia.com/vida/20191008/47875561376/catalunya-los-premis-dona-tic-reconocen-el-talento-y-emprendeduria-digital-femenina.html), La Vanguardia
+
+If you are interested in a collaboration to promote the role of women in technology, please [drop me a line](https://lauradubreuilvall.netlify.app/#contact)!
