@@ -1,6 +1,4 @@
 ---
-title: Video transmission over an in-air acoustic link
-subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -21,16 +19,10 @@ abstract: In this paper, we present the development of an in-air acoustic
   modulation technique as it provides robust high speed acoustic communication
   over underwater channels which are characterized by frequency selectivity and
   Doppler distortion.
-url_pdf: http://wuwnet.acm.org/2011/demos/video_in_air.pdf
 draft: false
+url_pdf: http://wuwnet.acm.org/2011/demos/video_in_air.pdf
 featured: false
-tags:
-  - Underwater
-  - Acoustic
-  - Video
-  - OFDM
 categories: []
-projects: []
 image:
   caption: ""
   focal_point: ""
@@ -38,7 +30,14 @@ image:
   filename: featured.png
 summary: ""
 lastmod: 2021-08-21T10:45:57-04:00
+title: Video transmission over an in-air acoustic link
+subtitle: ""
+tags:
+  - Underwater
+  - Acoustic
+  - Video
+  - OFDM
+projects: []
 date: 2011-01-01
-publishDate: 2021-08-21T14:46:08.214964Z
+publishDate: 2021-08-21T14:46:08.214Z
 ---
-Full paper can be found [here](http://wuwnet.acm.org/2011/demos/video_in_air.pdf).
