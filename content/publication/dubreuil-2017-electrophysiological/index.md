@@ -9,6 +9,7 @@ authors:
   - Alik Widge
   - Giulio Ruffini
   - Joan Camprodon
+doi: 10.1016/j.brs.2017.01.213
 publication: "*Brain Stimulation: Basic, Translational, and Clinical Research in
   Neuromodulation*"
 abstract: >-
@@ -52,5 +53,5 @@ image:
 summary: ""
 lastmod: 2021-08-21T10:45:56-04:00
 date: 2017-01-01
-publishDate: 2021-08-21T14:46:07.164529Z
+publishDate: 2021-08-21T14:46:07.164Z
 ---
