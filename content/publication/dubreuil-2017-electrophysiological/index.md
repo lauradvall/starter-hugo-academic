@@ -11,7 +11,7 @@ authors:
   - Joan Camprodon
 doi: 10.1016/j.brs.2017.01.213
 publication: "*Brain Stimulation: Basic, Translational, and Clinical Research in
-  Neuromodulation*"
+  Neuromodulation, as part of NYC Neuromodulation 2017*"
 abstract: >-
   Introduction: Cognitive deficits are common across neuropsychiatric disorders
   and a primary cause of functional disability. Nevertheless, clinicians have
@@ -50,7 +50,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-url_poster: "/assets/media/Electrophysiological mechanisms of tDCS modulation of executive functions.pdf"
+url_poster: "/uploads/Electrophysiological mechanisms of tDCS modulation of executive functions.pdf"
 summary: ""
 lastmod: 2021-08-21T10:45:56-04:00
 date: 2017-01-01
