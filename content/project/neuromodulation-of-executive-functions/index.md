@@ -10,7 +10,7 @@ tags:
   - tDCS
   - ADHD
   - Executive function
-external_link: " "
+external_link: ""
 links: []
 image:
   filename: featured.png
