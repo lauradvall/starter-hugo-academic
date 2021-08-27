@@ -11,12 +11,8 @@ tags:
   - Deep Learning
   - ADHD
   - Parkinson's
-external_link: ""
-links:
-  - url: https://doi.org/10.3389/fnins.2020.00251
-    name: ADHD Paper
-  - url: https://www.frontiersin.org/articles/10.3389/fneur.2019.00806/full
-    name: Parkinson's paper
+external_link: " "
+links: []
 image:
   filename: featured.jpeg
   focal_point: Smart
