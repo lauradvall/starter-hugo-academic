@@ -41,7 +41,8 @@ draft: false
 featured: false
 tags: []
 categories: []
-projects: []
+projects:
+   - eeg-based-biomarkers-for-adhd
 image:
   caption: ""
   focal_point: ""
