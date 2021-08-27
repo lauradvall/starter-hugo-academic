@@ -50,6 +50,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
+url_poster: "/assets/media/Electrophysiological mechanisms of tDCS modulation of executive functions.pdf"
 summary: ""
 lastmod: 2021-08-21T10:45:56-04:00
 date: 2017-01-01
