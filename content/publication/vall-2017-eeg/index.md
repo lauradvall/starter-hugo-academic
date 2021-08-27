@@ -37,7 +37,8 @@ tags:
   - EEG
   - Sha
 categories: []
-projects: []
+projects:
+  - neuromodulation-of-executive-functions
 image:
   caption: ""
   focal_point: ""
