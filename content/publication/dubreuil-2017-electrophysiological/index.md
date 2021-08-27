@@ -26,13 +26,7 @@ abstract: >-
   Methods: We investigated the role of tDCS in modulating executive functions in 20 healthy adults, who received three different tDCS stimulation conditions over three separate visits: sham, anodal tDCS on the right DLPFC (Anodal Right), and the left DLPFC (Anodal Left) using 3cm2 Ag/AgCl electrodes (Pistim by Neuroelectrics). Participants performed the Flanker task and Multisource Interference Task with International Affective Picture System (MSIT-IAPS) before and after receiving tDCS. We measured behavioral responses and EEG during the task, and calculated ERPs over Fz.
 
 
-  Results: For the Flanker task, Anodal Left stimulation led to a significant increase of P300 amplitude for incongruent trials versus Sham. Greater P300 amplitudes are believed to indicate greater attention and working memory allocation. This correlated with the behavioral results, as Anodal Left stimulation led to a significant improvement in reaction time (RT)
-
-  versus Sham. In the MSIT task, Anodal Left stimulation also led to a significant increase
-
-  in P200 amplitude compared to Sham. It is believed that the P200 amplitude indicates more efficient selective attention allocation. In the behavioral results, RT did not improve for Left or
-
-  Right stimulation but accuracy displayed a nearly significant improvement for Left stimulation.
+  Results: For the Flanker task, Anodal Left stimulation led to a significant increase of P300 amplitude for incongruent trials versus Sham. Greater P300 amplitudes are believed to indicate greater attention and working memory allocation. This correlated with the behavioral results, as Anodal Left stimulation led to a significant improvement in reaction time (RT) versus Sham. In the MSIT task, Anodal Left stimulation also led to a significant increase in P200 amplitude compared to Sham. It is believed that the P200 amplitude indicates more efficient selective attention allocation. In the behavioral results, RT did not improve for Left or Right stimulation but accuracy displayed a nearly significant improvement for Left stimulation.
 
 
   Discussion: We describe the modulation of attention-related ERPs by anodal tDCS to the DLPFC in healthy adults, related to improvement in attention task performance. These physiological markers may represent therapeutic targets for pro-cognitive treatments.
@@ -50,9 +44,10 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-url_poster: "/uploads/Electrophysiological mechanisms of tDCS modulation of executive functions.pdf"
 summary: ""
 lastmod: 2021-08-21T10:45:56-04:00
 date: 2017-01-01
 publishDate: 2021-08-21T14:46:07.164Z
+url_poster: /uploads/Electrophysiological mechanisms of tDCS modulation of
+  executive functions.pdf
 ---
