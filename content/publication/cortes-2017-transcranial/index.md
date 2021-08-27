@@ -29,7 +29,8 @@ draft: false
 featured: false
 tags: []
 categories: []
-projects: []
+projects:
+  - neuromodulation-of-executive-functions
 image:
   caption: ""
   focal_point: ""
