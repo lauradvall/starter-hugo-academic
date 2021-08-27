@@ -8,7 +8,7 @@ draft: false
 featured: false
 tags:
   - tDCS
-external_link: " "
+external_link: ""
 links: []
 image:
   filename: featured.png
