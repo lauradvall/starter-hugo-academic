@@ -45,7 +45,8 @@ tags:
   - Executive function
   - State dependency
 categories: []
-projects: []
+projects:
+  - https://lauradubreuilvall.netlify.app/project/neuromodulation-of-executive-functions/
 image:
   caption: ""
   focal_point: ""
@@ -54,7 +55,7 @@ image:
 summary: ""
 lastmod: 2021-08-21T10:46:06-04:00
 date: 2019-01-01
-publishDate: 2021-08-21T14:46:06.702699Z
+publishDate: 2021-08-21T14:46:06.702Z
 ---
 
 
