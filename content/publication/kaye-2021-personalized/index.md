@@ -40,7 +40,7 @@ tags:
   - Epilepsy
 categories: []
 projects:
-  - galvani
+  - neuromodulation-of-executive-functions
 image:
   caption: ""
   focal_point: ""
