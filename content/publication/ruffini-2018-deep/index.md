@@ -53,7 +53,8 @@ tags:
   - RBD
   - Parkinson
 categories: []
-projects: []
+projects:
+  - eeg-based-biomarkers-for-adhd
 image:
   caption: ""
   focal_point: ""
