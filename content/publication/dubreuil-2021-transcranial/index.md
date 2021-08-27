@@ -47,7 +47,7 @@ tags:
   - tDCS
 categories: []
 projects:
-  - Neuromodulation of executive functions
+  - neuromodulation-of-executive-functions
 image:
   caption: ""
   focal_point: ""
