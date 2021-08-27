@@ -41,7 +41,8 @@ tags:
   - Spinal Cord Injury
   - EEG
 categories: []
-projects: []
+projects:
+  - neuromodulation-of-executive-functions
 image:
   caption: ""
   focal_point: ""
