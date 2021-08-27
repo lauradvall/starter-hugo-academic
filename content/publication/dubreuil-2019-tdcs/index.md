@@ -45,8 +45,7 @@ tags:
   - Executive function
   - State dependency
 categories: []
-projects:
-  - https://lauradubreuilvall.netlify.app/project/neuromodulation-of-executive-functions/
+projects: []
 image:
   caption: ""
   focal_point: ""
@@ -57,8 +56,6 @@ lastmod: 2021-08-21T10:46:06-04:00
 date: 2019-01-01
 publishDate: 2021-08-21T14:46:06.702Z
 ---
-
-
 ## Highlights
 
 * Anodal tDCS to the left DLPFC leads to faster reaction times in the Flanker task.
