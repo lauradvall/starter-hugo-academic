@@ -39,7 +39,8 @@ tags:
   - tDCS
   - Epilepsy
 categories: []
-projects: []
+projects:
+  - galvani
 image:
   caption: ""
   focal_point: ""
