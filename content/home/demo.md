@@ -4,7 +4,7 @@ widget_id: " "
 headless: true
 weight: 15
 title: Laura Dubreuil Vall
-subtitle: Research Neuroscience and Machine Learning
+subtitle: Research in Neuroscience and Machine Learning
 active: true
 design:
   columns: "1"
