@@ -18,7 +18,7 @@ subtitle: Research Neuroscience and Machine Learning
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: mathematica.jpeg
     image_darken: 1.0
     image_parallax: true
     image_position: center
