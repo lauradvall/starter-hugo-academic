@@ -51,6 +51,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
+url_project: https://lauradubreuilvall.netlify.app/project/neuromodulation-of-executive-functions/
 summary: ""
 lastmod: 2021-08-21T10:46:06-04:00
 date: 2019-01-01
