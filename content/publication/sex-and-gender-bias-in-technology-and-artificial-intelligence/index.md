@@ -1,5 +1,5 @@
 ---
-title: Sex differences in invasive and non-invasive neurotechnologies
+title: Sex and gender differences in Invasive and non invasive neurotechnologies
 subtitle: ""
 publication_types:
   - "6"
