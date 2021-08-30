@@ -33,7 +33,7 @@ featured: false
 tags:
   - EEG
   - Cognitive Aging
-url_poster: "/static/uploads/EEG postural control.pdf"
+url_poster: "https://lauradubreuilvall.netlify.app/static/uploads/EEG postural control.pdf"
 image:
   filename: featured.png
   focal_point: Smart
