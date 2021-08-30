@@ -11,7 +11,8 @@ authors:
   - Giulio Ruffini
   - Lotfi B Merabet
 doi: 10.1007/978-3-030-11051-2_5
-publication: "*International Conference on Intelligent Human Systems Integration*"
+publication: "*International Conference on Intelligent Human Systems Integration
+  (IHSI). Advances in Intelligent Systems and Computing book series*"
 abstract: "Little is known about how the brain processes information while
   navigating without visual cues. Technical limitations recording brain activity
   during real-world navigation have impeded research in this field. We have
@@ -40,5 +41,5 @@ image:
 summary: ""
 lastmod: 2021-08-21T10:45:57-04:00
 date: 2019-01-01
-publishDate: 2021-08-21T14:46:07.459713Z
+publishDate: 2021-08-21T14:46:07.459Z
 ---
