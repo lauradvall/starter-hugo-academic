@@ -35,6 +35,7 @@ tags:
   - Cognitive Aging
   - Complexity
   - Dual Tasking
+url_poster: "/uploads/EEG postural control.pdf"
 image:
   filename: featured.png
   focal_point: Smart
