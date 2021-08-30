@@ -2,7 +2,7 @@
 title: The multiscale dynamics of resting-state brain activity is associated
   with the performance of dual task standing postural control in older adults
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Junhong Zhou
   - Laura Dubreuil Vall
