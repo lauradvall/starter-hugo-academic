@@ -8,7 +8,7 @@ authors:
   - Laura Dubreuil Vall
   - Brad Manor
   - Giulio Ruffini
-publication: Internaitonal Society of Posture and Gait Research
+publication: "*International Society of Posture and Gait Research Congress*"
 abstract: >-
   Introduction: The standing postural control depends upon brain regions that
   interact with one another over multiple scales of time. The dynamics of brain
@@ -37,6 +37,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-url_poster: "/static/uploads/EEG postural control.pdf
 date: 2019-06-30T20:11:21.580Z
 ---
