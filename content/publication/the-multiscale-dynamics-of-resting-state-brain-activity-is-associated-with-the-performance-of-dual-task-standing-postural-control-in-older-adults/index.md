@@ -33,7 +33,8 @@ featured: false
 tags:
   - EEG
   - Cognitive Aging
-url_poster: "https://lauradubreuilvall.netlify.app/uploads/EEG postural control.pdf"
+  - Complexity
+  - Dual Tasking
 image:
   filename: featured.png
   focal_point: Smart
