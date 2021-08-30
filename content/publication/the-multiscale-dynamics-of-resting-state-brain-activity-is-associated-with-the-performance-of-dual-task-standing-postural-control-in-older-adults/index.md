@@ -33,6 +33,7 @@ featured: false
 tags:
   - EEG
   - Cognitive Aging
+url_poster: "/static/uploads/EEG postural control.pdf"
 image:
   filename: featured.png
   focal_point: Smart
