@@ -37,5 +37,6 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+url_poster: "/static/uploads/EEG postural control.pdf
 date: 2019-06-30T20:11:21.580Z
 ---
