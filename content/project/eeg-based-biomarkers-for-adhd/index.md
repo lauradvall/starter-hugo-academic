@@ -11,7 +11,7 @@ tags:
   - Deep Learning
   - ADHD
   - Parkinson's
-external_link: " "
+external_link: ""
 links: []
 image:
   filename: featured.jpeg
