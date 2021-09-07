@@ -17,8 +17,8 @@ design:
     text_color_light: true
   spacing:
     padding:
-      - 110px
+      - 180px
       - "0"
-      - 110px
+      - 180px
       - "0"
 ---
