@@ -9,7 +9,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: mathematica.jpeg
+    image: brainglass.jpeg
     image_darken: 1
     image_parallax: true
     image_position: center
