@@ -8,6 +8,7 @@ subtitle: Research in Neuroscience and Machine Learning
 active: true
 design:
   columns: "1"
+  color: white
   background:
     image: brainglass.png
     image_darken: 0
