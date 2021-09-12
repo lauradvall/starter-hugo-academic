@@ -4,12 +4,12 @@ date: 2021-08-16T17:55:45.178Z
 summary: Trusted Biometrics under Spoofing Attacks
 draft: false
 featured: false
-external_link: ""
+external_link: " "
 links:
   - url: http://www.tabularasa-euproject.org/
     name: Website
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
