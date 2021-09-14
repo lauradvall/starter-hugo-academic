@@ -1,5 +1,6 @@
 ---
-title: PhD defense
+title: Neuromodulation interventions and EEG biomarkers for executive function
+  in healthy and clinical populations
 abstract: >
   Executive function is defined as a subset of high-order cognitive functions
   (including working memory, inhibition, initiation and monitoring) that sustain
@@ -32,7 +33,8 @@ publishDate: 2021-09-14T15:14:08.944Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
+{{< youtube 65gzwCiMdHQ >}}
