@@ -1,16 +1,11 @@
 ---
-title: Neuromodulation interventions and EEG biomarkers for executive function
-  in healthy and clinical populations
+title: PhD defense
 abstract: >
-  Executive function is defined as a subset of high-order cognitive functions
-  (including working memory, inhibition, initiation and monitoring) that sustain
-  adaptive goal-directed behavior and thought, and that are essential for
-  successful adaptation to all day-to-day environments. The use of non-invasive
-  brain stimulation and electrophysiological techniques to study anatomical and
-  physiological dynamics and circuits supporting cognition and executive
-  functions has dramatically increased in recent years. However, the specific
-  dynamics that are disrupted in dysexecutive individuals and the mechanisms by
-  which neuromodulation tools affect them remain unclear.
+  *Neuromodulation interventions and EEG biomarkers for executive function in
+  healthy and clinical populations*
+
+
+  Executive function is defined as a subset of high-order cognitive functions (including working memory, inhibition, initiation and monitoring) that sustain adaptive goal-directed behavior and thought, and that are essential for successful adaptation to all day-to-day environments. The use of non-invasive brain stimulation and electrophysiological techniques to study anatomical and physiological dynamics and circuits supporting cognition and executive functions has dramatically increased in recent years. However, the specific dynamics that are disrupted in dysexecutive individuals and the mechanisms by which neuromodulation tools affect them remain unclear.
 
 
   In the first part of this thesis we use electroencephalography (EEG) to assess the cognitive and physiological effects of transcranial Direct Current Stimulation (tDCS) on executive functions in healthy and Attention-Deficit Hyperactivity Disorder (ADHD) populations in order to understand the role of the dorsolateral prefrontal cortex’s (DLPFC) laterality in executive functions, the physiological dynamics sustaining the modulation of executive functions by tDCS, and the impact of state-dependent dynamics.  
