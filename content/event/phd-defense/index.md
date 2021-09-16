@@ -1,8 +1,8 @@
 ---
 title: PhD defense
 abstract: >
-  *Neuromodulation interventions and EEG biomarkers for executive function in
-  healthy and clinical populations*
+  **Neuromodulation interventions and EEG biomarkers for executive function in
+  healthy and clinical populations**
 
 
   Executive function is defined as a subset of high-order cognitive functions (including working memory, inhibition, initiation and monitoring) that sustain adaptive goal-directed behavior and thought, and that are essential for successful adaptation to all day-to-day environments. The use of non-invasive brain stimulation and electrophysiological techniques to study anatomical and physiological dynamics and circuits supporting cognition and executive functions has dramatically increased in recent years. However, the specific dynamics that are disrupted in dysexecutive individuals and the mechanisms by which neuromodulation tools affect them remain unclear.
