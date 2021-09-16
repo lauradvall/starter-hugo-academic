@@ -1,7 +1,8 @@
 ---
 title: NYC Neuromodulation 2020
 abstract: >-
-  State-of-the-art of numerical head modeling in tES: methods and applications
+  **State-of-the-art of numerical head modeling in tES: methods and
+  applications**
 
 
   Numerical head models in transcranial electrical stimulation (tES) have become a powerful and robust tool for planning stimulation. Due to the development of computational algorithms to segment MRIs, it is now possible to create on a personalized way realistic volume conductor head models. These head models can be used to analyze commonly used montages, in a retrospective manner and to determine the characteristics of the electric field distribution in the head. They can also be combined with montage optimization algorithms that allow for the determination of the dose parameters (electrode positions and currents) that optimally stimulate specific target areas in the subject’s brain. Moreover, the next generation of models should combine passive physical properties with more sophisticated representations of the physiological effects of tES, providing a link with measures obtained from fMRI/EEG, enabling the creation of a more sophisticated personalization of the optimization protocols.
